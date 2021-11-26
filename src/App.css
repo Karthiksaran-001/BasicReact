@@ -1,0 +1,13 @@
+.header {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  height: 25vh;
+
+  align-items: center;
+}
+.header a {
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+  width: 55vw;
+}
